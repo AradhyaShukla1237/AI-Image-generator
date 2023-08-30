@@ -1,0 +1,9 @@
+body{
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Seoge UI', 'Roboto', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: greyscale;
+  background: #0f1b21;
+  color: white;
+}
+
